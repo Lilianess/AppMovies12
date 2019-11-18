@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0769298c-acd5-4f51-a8c3-b829f94140b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/androidTest/java/br/ulbra/ramon/prof/moviesdb/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/ui/favorites/FavoritesFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/ui/favorites/FavoritesViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/ui/popular/PopularFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/ui/popular/PopularViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/ui/toprated/TopratedFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/java/br/ulbra/ramon/prof/moviesdb/ui/toprated/TopratedViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/layout/fragment_favorites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/layout/fragment_popular.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/layout/fragment_toprated.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/app/src/test/java/br/ulbra/ramon/prof/moviesdb/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies-master/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppMovies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AppMovies-master/app/src/androidTest/java/br/ulbra/ramon/prof/moviesdb/ExampleInstrumentedTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="19" />
+    <option name="width" value="1152" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0769298c-acd5-4f51-a8c3-b829f94140b4" name="Default Changelist" comment="" />
+      <created>1574109998874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574109998874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32955465" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AppMovies-master/app/src/androidTest/java/br/ulbra/ramon/prof/moviesdb/ExampleInstrumentedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
